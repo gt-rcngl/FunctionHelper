@@ -1,0 +1,17 @@
+{
+    "name": "function/helper",
+    "description": "Just a functions",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arcangel\\Functions\\Helper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gt-rcngl",
+            "email": "git.arcangel@gmail.com"
+        }
+    ],
+    "require": {}
+}
