@@ -6,7 +6,7 @@
  * @link https://www.example.com
  */
 
-namespace Arcangel\Functions\Helper;
+namespace Arcangel\Functions\Helper\Classes;
 
 use ReflectionFunction;
 use ReflectionClass;
