@@ -1,5 +1,5 @@
 {
-    "name": "function/helper",
+    "name": "arcangel/functions",
     "description": "Just a functions",
     "license": "MIT",
     "autoload": {
