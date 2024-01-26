@@ -8,11 +8,12 @@
 
 namespace Arcangel\Functions\Helper\Classes;
 
+use Arcangel\Interfaces\CallbackHandlerInterface;
 use ReflectionFunction;
 use ReflectionClass;
 use ErrorException;
 
-class CallbackHandler
+class CallbackHandler implements CallbackHandlerInterface
 {
     private $handler;
     private $method;

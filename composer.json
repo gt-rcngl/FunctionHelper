@@ -15,6 +15,7 @@
     ],
     "minimum-stability":"stable",
     "require": {
-        "php": ">=8.1"
+        "php": ">=8.1",
+        "arcangel/interfaces": "^1.0"
     }
 }
